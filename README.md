@@ -1,8 +1,8 @@
 # Midea AC LAN
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/hacs/integration)
-[![Donate](https://img.shields.io/badge/donate-BuyMeCoffee-yellow.svg)](https://www.buymeacoffee.com/georgezhao2010)
-[![Stable](https://img.shields.io/github/v/release/georgezhao2010/midea_ac_lan)](https://github.com/georgezhao2010/midea_ac_lan/releases/latest)
+[![Stable](https://img.shields.io/github/v/release/jianyun8023/midea_ac_lan)](https://github.com/jianyun8023/midea_ac_lan/releases/latest)
 
+> Note: Temporary fixes for problems
 English | [简体中文](README_hans.md)
 
 Control your Midea M-Smart appliances via local area network.
